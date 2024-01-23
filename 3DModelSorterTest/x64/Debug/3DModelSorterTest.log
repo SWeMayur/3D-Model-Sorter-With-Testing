@@ -1,0 +1,11 @@
+﻿  Point2DTest.cpp
+  Point3DTest.cpp
+  STLReaderTest.cpp
+D:\Mayur_Workspace\3DModelSorterTest\STLReaderTest.cpp(13,25): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file '/STLReaderTest.cpp')
+  
+D:\Mayur_Workspace\3DModelSorterTest\STLReaderTest.cpp(13,25): warning C4129: 'S': unrecognized character escape sequence
+  (compiling source file '/STLReaderTest.cpp')
+  
+  Generating Code...
+  3DModelSorterTest.vcxproj -> D:\Mayur_Workspace\Visualizer\x64\Debug\3DModelSorterTest.exe
